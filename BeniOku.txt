@@ -1,0 +1,8 @@
+Bu otomasyon mysql ile yapıldığından wampserveri kurup
+http://localhost:8080/phpmyadmin/ adresinden yeni bir veritabanı
+adı javaodev olacak şekilde oluşturup içe aktarı tıklayıp ekte verilen sql
+sorgusunu ekleyip çalıştırmalısınız.
+
+Not:yoneticilere sadece kendi bolumundeki çalışanların göründüğünü
+gözden kaçırmayınız!!!! 
+
